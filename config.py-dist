@@ -1,0 +1,9 @@
+REPOS = [
+   ("https://www.github.com/xcp-ng/win-xenbus.git", "master"),
+   ("https://www.github.com/xcp-ng/win-xenguestagent.git", "master"),
+   ("https://www.github.com/xcp-ng/win-xeniface.git", "master"),
+   ("https://www.github.com/xcp-ng/win-xenvif.git", "master"),
+   ("https://www.github.com/xcp-ng/win-xennet.git", "master"),
+   ("https://www.github.com/xcp-ng/win-xenvbd.git", "master"),
+   ("https://www.github.com/xcp-ng/win-installer.git", "master"),
+]
